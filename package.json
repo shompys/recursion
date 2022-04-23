@@ -1,0 +1,12 @@
+{
+  "name": "recursividad",
+  "packageManager": "yarn@3.2.0",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "grid": "nodemon gridTravel.js",
+    "fractal": "nodemon fractal.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
